@@ -1,3 +1,3 @@
 # hello-world
 =====
-There is a geeky world out there
+There is a geeky world out there, better get yourself started
